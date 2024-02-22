@@ -1,0 +1,24 @@
+{
+  "items": [
+    {
+      "id": 1,
+      "checked": false,
+      "item": "LEARN SOMETHING NEW "
+    },
+    {
+      "id": 2,
+      "checked": false,
+      "item": "SOLVING NEW PROBLEMS"
+    },
+    {
+      "id": 3,
+      "checked": false,
+      "item": "IMPROVING LOGICAL THINKING"
+    },
+    {
+      "id": 4,
+      "checked": false,
+      "item": "EAT WELL,SLEEP WELL,YOU ARE THE BEST"
+    }
+  ]
+}
